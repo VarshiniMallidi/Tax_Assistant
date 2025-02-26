@@ -2,6 +2,8 @@
 
 1.Clone the Repository:
 Open your terminal and execute:
+git clone https://github.com/VarshiniMallidi/Tax_Assistant.git
+cd 
 
 2.Create a Virtual Environment:
 It's recommended to use a virtual environment to manage dependencies
