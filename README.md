@@ -3,7 +3,7 @@
 1.Clone the Repository:
 Open your terminal and execute:
 git clone https://github.com/VarshiniMallidi/Tax_Assistant.git
-cd 
+cd Tax_Assistant
 
 2.Create a Virtual Environment:
 It's recommended to use a virtual environment to manage dependencies
@@ -19,7 +19,9 @@ venv\Scripts\activate
 4.Install Dependencies:
 pip install -r requirements.txt
 
-5.Run streamlit application
+5. Use your Google Studio API key in tax.py(line 10)
+
+6.Run streamlit application
 python -m streamlit run tax.py
 
 
